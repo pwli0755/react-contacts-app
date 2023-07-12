@@ -33,3 +33,6 @@ See the section about [deployment](https://vitejs.dev/guide/static-deploy.html) 
 ### `npm run server`
 
 **Note: this is a dev server setup for testing using `json-server`**
+
+
+https://medium.com/@bitsol/using-react-tool-kit-rtk-query-with-react-router-v6-9eac07521bc5
